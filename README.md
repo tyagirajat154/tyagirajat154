@@ -14,6 +14,9 @@
   <a href="mailto:tyagirajat154@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
+  <a href="https://linkedin.com/in/tyagirajatt"
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
 </p>
 
 ---
@@ -101,6 +104,7 @@ If you're a recruiter, fellow student, or developer interested in collaborating 
 
 - 🐦 Twitter: [@rajat7779](https://twitter.com/rajat7779)
 - 💻 GitHub: [@tyagirajat154](https://github.com/tyagirajat154)
+- 🧑‍💼Linkedin : [@tyagirajatt(https://www.linkedin.com/in/tyagirajatt)]
 
 ---
 
