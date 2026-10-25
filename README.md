@@ -68,7 +68,7 @@
 
 ---
 
-### 📉 Churn Prediction Model *(coming soon)*
+### 📉 Churn Prediction Model 
 > Machine learning model to predict customer churn using classification algorithms
 
 - Predicts whether a customer is likely to leave a service based on behavioural data
@@ -103,7 +103,7 @@
 If you're a recruiter, fellow student, or developer interested in collaborating — feel free to reach out!
 
 - 💼 LinkedIn: [tyagirajatt](https://www.linkedin.com/in/tyagirajatt) · 800+ followers
-- 🐦 Twitter: [@rajat7779](https://twitter.com/rajat7779)
+- 🐦 Twitter: [@rajat7779](https://twitter.com/tyagirajat154)
 - 💻 GitHub: [@tyagirajat154](https://github.com/tyagirajat154)
 
 ---
