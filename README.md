@@ -159,16 +159,20 @@ The concepts I'm exploring and applying in my projects include:
 
 ---
 
-## 📊 GitHub Statistics
+## 🧠 Technical Focus
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tyagirajat154&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Statistics" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tyagirajat154&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" width="40%"/>
+<p>
+  <img src="https://img.shields.io/badge/AI%20%26%20Machine%20Learning-8A2BE2?style=for-the-badge&logo=python&logoColor=white" alt="AI and Machine Learning"/>
+  <img src="https://img.shields.io/badge/Data%20Science-007ACC?style=for-the-badge&logo=databricks&logoColor=white" alt="Data Science"/>
+  <img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-FF6F00?style=for-the-badge&logo=leetcode&logoColor=white" alt="DSA"/>
+  <img src="https://img.shields.io/badge/Problem%20Solving-2EA44F?style=for-the-badge&logo=leetcode&logoColor=white" alt="Problem Solving"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tyagirajat154&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" width="55%"/>
-</p>
+* 🤖 **AI/ML:** Exploring machine learning algorithms and predictive modelling.
+* 📊 **Data Science:** Analysing datasets and extracting meaningful insights.
+* 💻 **DSA:** Practising data structures and algorithms through regular LeetCode problem-solving.
+* ⚙️ **Programming:** Strengthening problem-solving skills using Java, C++, and Python.
+* 🚀 **Development:** Building practical projects that combine programming, data analysis, and machine learning.
 
 ---
 
