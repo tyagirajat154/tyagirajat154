@@ -1,8 +1,8 @@
-<h1 align="center">Hey, I'm Rajat Tyagi 👋</h1>
+<p align="center">
+  <img src="./photo-banner.png" alt="Rajat Tyagi | AI/ML, Data Science and DSA" width="100%">
+</p>
 
-<h3 align="center">
-  AI/ML Developer | Data Science Enthusiast | B.Tech CSE (AI & ML)
-</h3>
+<br>
 
 <p align="center">
   Building intelligent solutions through machine learning, data analysis, and software development.
